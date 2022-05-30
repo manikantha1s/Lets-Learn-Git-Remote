@@ -1,1 +1,1 @@
-console.log("to squash changes1");
+console.log("to squash changes1")

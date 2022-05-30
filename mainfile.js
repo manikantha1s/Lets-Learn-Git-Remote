@@ -1,1 +1,1 @@
-console.log('main file created')
+console.log('main file squashed created')
